@@ -1,6 +1,4 @@
-\# 我的 Git 学习笔记
+# Git 学习笔记
 
-
-
-正在通过项目实战学习 Git。
-
+这是我用来练习 Git 的仓库。
+- 学习了 git add 和 git commit
